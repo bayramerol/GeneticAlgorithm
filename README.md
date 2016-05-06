@@ -1,0 +1,3 @@
+# GeneticAlgorithm
+
+![Description](/genetikresim.png)
